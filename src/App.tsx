@@ -248,6 +248,12 @@ function App() {
             <br></br>
             <br></br>
 
+            {/*Smart IOT Component*/}
+           <div className="app">
+              <DustbinDashboard />
+            </div>
+
+
             {/* Contact Form Section */}
             <div className="mb-16">
               <h2 className="text-3xl font-bold text-center mb-8 text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-400">
